@@ -1,11 +1,12 @@
 
 This code book summarizes the resulting data fields in tidy_data_set.txt.
 
-#Identifiers
+##Identifiers
 [1]Subject - The ID of the subjects
 [2]Activity - The type of activity performed when the corresponding measurements were taken
 
-#Measurements
+
+##Measurements
  [3] "timeDomainBodyAccelerometerMeanX"                              
  [4] "timeDomainBodyAccelerometerMeanY"                              
  [5] "timeDomainBodyAccelerometerMeanZ"                              
@@ -86,7 +87,7 @@ This code book summarizes the resulting data fields in tidy_data_set.txt.
 [80] "frequencyDomainBodyGyroscopeJerkMagnitudeStandardDeviation"    
 [81] "frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency"
 
-#Activity Labels
+##Activity Labels
 1 - WALKING: subject was walking during the test
 2 - WALKING_UPSTAIRS: subject was walking up a staircase during the test
 3 - WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
